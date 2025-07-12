@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenLibraryDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "/works/OL17287966W"
+    }
+  }
+}
